@@ -1,5 +1,5 @@
-# Oneliner-Bugbounty
-A collection oneliner scripts for bug bounty
+# Oneliner-Cmd
+ oneliner scripts for bug bounty
 
 ## List tools
 - [Subfinder](https://github.com/projectdiscovery/subfinder)
